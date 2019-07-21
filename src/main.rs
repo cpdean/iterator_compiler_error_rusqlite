@@ -4,3 +4,7 @@ where
 {
     m.next().unwrap()
 }
+
+fn main() {
+    println!("boop");
+}
